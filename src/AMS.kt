@@ -22,5 +22,7 @@ fun dayOfWeek(){
         6-> println("Today is Friday")
         7-> println("Today is Saturday")
 
+        else-> println("time stopped")
+
     }
 }
